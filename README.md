@@ -53,6 +53,30 @@ Five individual machine learning algorithms were evaluated:
 Ensemble approaches included simple averaging, inverse-MSE weighting, optimized weighted averaging, and stacking-based methods.
 
 ## Key Results
+Model Performance
+
+<p align="center">
+  <img src="results/Figure_ML_Model_Comparison_A4_600dpi.png" alt="Individual Model performance comparison With Nested CV" width="85%">
+</p>
+
+Ensemble Performance
+
+<p align="center">
+  <img src="results/figure2.png" alt="Ensemble model performance" width="85%">
+</p>
+
+Model Interpretation and Evaluation
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="results/figure3.png" alt="SHAP analysis" width="100%">
+    </td>
+    <td width="50%">
+      <img src="results/figure4.png" alt="Taylor diagram" width="100%">
+    </td>
+  </tr>
+</table>
 
 CatBoost achieved the best individual model performance:
 
