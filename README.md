@@ -36,16 +36,9 @@ Major data sources include:
 
 ## Methodology
 
-The workflow consists of:
+The overall research framework is illustrated below.
 
-1. Remote sensing data acquisition and preprocessing using Google Earth Engine.
-2. Predictor extraction and dataset preparation.
-3. Feature selection and multicollinearity assessment.
-4. Machine learning model development and hyperparameter optimization.
-5. Nested five-fold cross-validation.
-6. Ensemble learning using averaging, optimized weighting, and stacking approaches.
-7. Model evaluation and statistical comparison.
-8. Model interpretation using SHAP.
+<p align="center">   <img src="figures/Figure_2_Overall_Framework.png" alt="Overall research methodology workflow" width="100%"> </p>
 
 ## Machine Learning Algorithms
 
