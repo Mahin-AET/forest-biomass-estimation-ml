@@ -17,12 +17,11 @@ The study focuses on three protected forest areas in northeastern Bangladesh:
 - Rema-Kalenga Wildlife Sanctuary
 
 ## Research Objectives
-
-- Integrate LiDAR, optical, microwave, and terrain information for forest biomass estimation.
-- Evaluate the contribution of canopy structural information to AGBD prediction.
-- Compare the predictive performance of five machine learning algorithms.
-- Investigate whether ensemble learning improves prediction accuracy.
-- Interpret model predictions using SHAP-based explainable AI.
+This study aims to develop a multisource remote sensing framework integrating optical, microwave, LiDAR, and terrain data with machine learning for AGBD estimation in protected forests of northeastern Bangladesh.  The specific objectives are to:
+- Compare the predictive performance of five machine learning algorithms: Random Forest (RF), XGBoost (XGB), Support Vector Regression (SVR), LightGBM (LGBM), and CatBoost.
+- Assess the contribution of multisource feature fusion to biomass estimation.
+- Evaluate model robustness through nested five-fold cross-validation.
+Additionally, seven ensemble learning strategies, comprising three linear averaging methods and four nonlinear stacking approaches, are benchmarked to investigate their potential to improve prediction accuracy.
 
 ## Data Sources and Predictors
 
