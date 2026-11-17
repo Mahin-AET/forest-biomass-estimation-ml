@@ -38,7 +38,7 @@ Major data sources include:
 
 The overall research framework is illustrated below.
 
-<p align="center">   <img src="figures/Figure_2_Overall_Framework.png" alt="Overall research methodology workflow" width="100%"> </p>
+<p align="center">   <img src="figures/Figure_2_Overall_Framework.jpg" alt="Overall research methodology workflow" width="100%"> </p>
 
 ## Machine Learning Algorithms
 
