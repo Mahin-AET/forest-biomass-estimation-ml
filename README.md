@@ -1,6 +1,3 @@
-.
-
-
 # Integrating GEDI LiDAR and Multisource Remote Sensing Data with Ensemble Machine Learning for Aboveground Biomass Estimation
 
 ## Overview
