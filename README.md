@@ -54,6 +54,7 @@ Model Performance
 <p align="center">
   <img src="results/Figure_ML_Model_Comparison_A4_600dpi.png" alt="Individual Model performance comparison With Nested CV" width="55%">
 </p>
+Observed versus out-of-fold predicted AGBD for five machine-learning models using five-fold nested cross-validation: (a) CatBoost, (b) RF, (c) LightGBM, (d) XGBoost, and (e) SVR.
 
 Model Interpretation and Evaluation
 
