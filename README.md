@@ -68,13 +68,16 @@ Model Interpretation and Evaluation
 <table>
   <tr>
     <td width="50%">
-      <img src="results/Figure_8_spider_Chart.png" alt="SHAP analysis" width="100%">
+      <img src="results/Figure_8_spider_Chart.png" alt="Spider_chart" width="100%">
     </td>
     <td width="50%">
-      <img src="results/Figure_9_SHAP_Beeswarm.png" alt="Taylor diagram" width="100%">
+      <img src="results/Figure_9_SHAP_Beeswarm.png" alt="SHAP" width="100%">
     </td>
   </tr>
 </table>
+<p align="center">
+  <em>Spider chart of model performance for AGBD estimation and SHAP Analysis revealing dominant predictor.</em>
+</p>
 
 CatBoost achieved the best individual model performance:
 
