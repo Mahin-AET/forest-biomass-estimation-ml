@@ -60,7 +60,9 @@ Model Performance
 
 Ensemble Performance
 <table>   <tr>     <td width="50%">       <img src="results/Ensemble_IMSE.png" alt="Ensemble_IMSE" width="100%">     </td>     <td width="50%">       <img src="results/Ensemble_SA.png" alt="Ensemble_SA" width="100%">     </td>   </tr> </table>
-
+<p align="center">
+  <em>Figure 1. Observed versus out-of-fold predicted AGBD for two best-performing ensemble learning models using nested five-fold cross-validation: (a) IMSE, (b) SAE.</em>
+</p>
 Model Interpretation and Evaluation
 
 <table>
