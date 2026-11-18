@@ -125,4 +125,4 @@ This repository documents the computational workflow, modelling approaches, and 
 
 If you use this work, please cite the associated research article when it becomes available.
 
-**Status:** Research project / manuscript (update when published).
+**Status:** manuscript under review.
