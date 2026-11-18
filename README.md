@@ -99,7 +99,6 @@ Statistical evaluation using the Friedman test confirmed significant differences
 - `results/`: Model evaluation and statistical results.
 - `figures/`: Selected research visualizations.
 - `tables/`: Final performance and feature importance tables.
-- `data/`: Sample or processed data, subject to data availability and redistribution permissions.
 
 ## Tools and Technologies
 
