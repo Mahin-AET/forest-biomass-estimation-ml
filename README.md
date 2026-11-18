@@ -61,7 +61,7 @@ Model Performance
 Ensemble Performance
 <table>   <tr>     <td width="50%">       <img src="results/Ensemble_IMSE.png" alt="Ensemble_IMSE" width="100%">     </td>     <td width="50%">       <img src="results/Ensemble_SA.png" alt="Ensemble_SA" width="100%">     </td>   </tr> </table>
 <p align="center">
-  <em>Figure 1. Observed versus out-of-fold predicted AGBD for two best-performing ensemble learning models using nested five-fold cross-validation: (a) IMSE, (b) SAE.</em>
+  <em>Figure 2. Observed versus out-of-fold predicted AGBD for two best-performing ensemble learning models using nested five-fold cross-validation: (a) IMSE, (b) SAE.</em>
 </p>
 Model Interpretation and Evaluation
 
@@ -76,7 +76,7 @@ Model Interpretation and Evaluation
   </tr>
 </table>
 <p align="center">
-  <em>Spider chart of model performance for AGBD estimation and SHAP Analysis revealing dominant predictor.</em>
+  <em>Figure 2. Spider chart of model performance for AGBD estimation and SHAP Analysis revealing dominant predictor.</em>
 </p>
 
 CatBoost achieved the best individual model performance:
