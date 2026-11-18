@@ -55,15 +55,6 @@ Model Performance
   <img src="results/Figure_ML_Model_Comparison_A4_600dpi.png" alt="Individual Model performance comparison With Nested CV" width="55%">
 </p>
 
-Ensemble Performance
-
-<p align="center">
-  <img src="results/Ensemble_IMSE.png" alt="Ensemble model performance" width="55%">
-</p>
-<p align="center">
-  <img src="results/Ensemble_SA.png" alt="Ensemble model performance2" width="55%">
-</p>
-
 Model Interpretation and Evaluation
 
 <table>
