@@ -58,6 +58,9 @@ Model Performance
   <em>Figure 1. Observed versus out-of-fold predicted AGBD for five machine learning models using nested five-fold cross-validation: (a) CatBoost, (b) RF, (c) LightGBM, (d) XGBoost, and (e) SVR.</em>
 </p>
 
+Ensemble Performance
+<table>   <tr>     <td width="50%">       <img src="results/Ensemble_IMSE.png" alt="Ensemble_IMSE" width="100%">     </td>     <td width="50%">       <img src="results/Ensemble_SA.png" alt="Ensemble_SA" width="100%">     </td>   </tr> </table>
+
 Model Interpretation and Evaluation
 
 <table>
