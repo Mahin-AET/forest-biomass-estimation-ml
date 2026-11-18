@@ -94,11 +94,12 @@ SHAP analysis identified relative height (RH95), canopy cover, and plant area in
 Statistical evaluation using the Friedman test confirmed significant differences among model prediction errors (χ² = 106.878, p < 0.001).
 
 ## Repository Structure
-
+- `data/`: Sample or processed data, subject to data availability and redistribution permissions.
+- `figures/`: Selected research visualizations.
 - `notebooks/`: Research workflow and model development notebooks.
 - `results/`: Model evaluation and statistical results.
-- `figures/`: Selected research visualizations.
-- `tables/`: Final performance and feature importance tables.
+
+
 
 ## Tools and Technologies
 
