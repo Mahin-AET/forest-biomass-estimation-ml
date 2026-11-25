@@ -19,6 +19,16 @@ This study aims to develop a multisource remote sensing framework integrating op
 - Evaluate model robustness through nested five-fold cross-validation.
 Additionally, seven ensemble learning strategies, comprising three linear averaging methods and four nonlinear stacking approaches, are benchmarked to investigate their potential to improve prediction accuracy.
 
+### Ensemble Learning Strategies
+
+- Simple Average (SA)
+- Inverse-MSE Weighted Average (IMSE)
+- Optimized Weighted Average (OWA)
+- Random Forest Stacking
+- XGBoost Stacking
+- CatBoost Stacking
+- Ridge Stacking
+
 ## Data Sources and Predictors
 
 Remote sensing datasets covering 2021–2023 were processed using Google Earth Engine (GEE).
